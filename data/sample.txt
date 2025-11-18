@@ -1,0 +1,15 @@
+Apache Spark is a unified analytics engine for large-scale data processing.
+It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs.
+Spark powers a stack of libraries including SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming.
+PySpark is the Python API for Apache Spark, enabling Python developers to leverage the power of distributed computing.
+Word count is often considered the "Hello World" of big data processing frameworks.
+Distributed computing allows processing of massive datasets across clusters of computers.
+Spark can run on Hadoop, Apache Mesos, Kubernetes, standalone, or in the cloud.
+The DataFrame API provides a domain-specific language for structured data manipulation.
+Spark Connect introduces a decoupled client-server architecture for remote Spark access.
+Container orchestration platforms like Kubernetes enable scalable deployment of Spark applications.
+Data engineering pipelines benefit from Spark's unified batch and streaming processing capabilities.
+PySpark applications can integrate with various data sources including databases, file systems, and cloud storage.
+Performance optimization in Spark involves understanding partitioning, caching, and broadcast variables.
+The Catalyst optimizer automatically optimizes Spark SQL queries for better performance.
+Tungsten execution engine provides memory and CPU efficiency improvements in Spark.
